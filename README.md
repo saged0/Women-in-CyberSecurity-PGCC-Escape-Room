@@ -4,7 +4,7 @@
 
 ## Overview
 
-Welcome to the **Cybersecurity Awareness Virtual Escape Room**, a collaborative project undertaken by me ([Sage Despeignes](https://www.linkedin.com/in/sage-despeignes/)), [Colleen McDaniel-Graham](https://www.linkedin.com/in/colleenmcdaniel-graham/), and [Zoraida Younger](https://www.linkedin.com/in/zy-msw/), talented students from the Women in CyberSecurity Student Chapter at Prince George's Community College.
+Welcome to the **Cybersecurity Awareness Virtual Escape Room**, a collaborative project undertaken by me ([Sage Despeignes](https://www.linkedin.com/in/sage-despeignes/)), [Colleen McDaniel-Graham](https://www.linkedin.com/in/colleenmcdaniel-graham/), and [Zoraida Younger](https://www.linkedin.com/in/zy-msw/).
 
 ## Description
 
